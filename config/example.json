@@ -1,0 +1,6 @@
+{
+  "DB_HOST": "SOME_HOST",
+  "DB_USER": "admin",
+  "DB_PASSWORD": "SomePassword",
+  "DB_NAME": "SomeDB_NAME"
+}

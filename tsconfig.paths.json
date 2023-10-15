@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@libs/*": ["src/libs/*"],
+      "@resources/*":["src/resources/*"],
+      "@interfaces/*":["src/interfaces/*"],
+      "@submodules/*":["src/submodules/*"],
+      "@helpers/*":["src/helpers/*"],
+    }
+  }
+}
